@@ -4,7 +4,7 @@
   "description": "Repo to show promises with file input and output",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src./index.js"
   },
   "keywords": [],
   "author": "",

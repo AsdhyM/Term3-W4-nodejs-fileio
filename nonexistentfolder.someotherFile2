@@ -1,0 +1,5 @@
+PORT=3030
+SOME_DATABASE_URL=blah blah blah
+SECURITY_TOKEN=sdgdansueangiasenoa
+SECRET_API_KEY=sdfijaoieagmiowgniawinraawegw
+JWT_SECRET_KEY=some special jwt salt word or phrase
